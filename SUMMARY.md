@@ -11,6 +11,7 @@
        * Docker Compose
        * Docker Swarm
    * 安装Mesos
+       * Chronos
 * Spark并行计算环境部署
    * 部署架构
    * 主节点安装
