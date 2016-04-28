@@ -4,7 +4,6 @@
 * [简介](chapter1.md)
 * 云平台的搭建
    * OpenStack的安装
-       * 虚拟存储系统
    * 虚拟存储系统
    * 安装Docker
 * Spark并行计算环境部署
