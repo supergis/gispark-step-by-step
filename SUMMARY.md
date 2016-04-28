@@ -4,6 +4,7 @@
 * [简介](chapter1.md)
    * GISpark是什么？
    * GISpark体系架构
+   * GISpark的实施路线图
 * 云平台的搭建
    * OpenStack的安装
    * 虚拟存储系统
