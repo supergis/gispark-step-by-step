@@ -5,6 +5,7 @@
 * 云平台的搭建
    * OpenStack的安装
    * 虚拟存储系统
+       * HDFS
    * 安装Docker
        * Docker Engine
        * Docker Machine
