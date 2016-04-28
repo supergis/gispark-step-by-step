@@ -20,7 +20,7 @@
        * Docker Machine
        * Docker Compose
        * Docker Swarm
-   * 安装Mesos
+   * Mesos与运维
        * Chronos
 * Spark并行计算环境部署
    * 部署架构
