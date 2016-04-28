@@ -7,6 +7,7 @@
    * 虚拟存储系统
        * HDFS
        * Ceph
+       * MongoDB
    * 安装Docker
        * Docker Engine
        * Docker Machine
