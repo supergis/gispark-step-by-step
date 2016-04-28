@@ -6,6 +6,7 @@
    * OpenStack的安装
    * 虚拟存储系统
    * 安装Docker
+       * Docker Engine
    * 安装Mesos
 * Spark并行计算环境部署
    * 部署架构
