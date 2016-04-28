@@ -6,6 +6,7 @@
    * OpenStack的安装
    * 虚拟存储系统
        * HDFS
+       * Ceph
    * 安装Docker
        * Docker Engine
        * Docker Machine
