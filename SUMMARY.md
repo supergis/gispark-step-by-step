@@ -19,8 +19,8 @@
        * Docker Engine
        * Docker Machine
        * Docker Compose
-       * Docker Swarm
        * Docker Registry
+       * Docker Swarm
    * Mesos与运维
        * Chronos
 * Spark并行计算环境部署
