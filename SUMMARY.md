@@ -15,7 +15,7 @@
        * HDFS
        * Ceph
        * MongoDB
-   * 安装Docker
+   * Docker计算容器系统
        * Docker Engine
        * Docker Machine
        * Docker Compose
