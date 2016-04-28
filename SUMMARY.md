@@ -6,7 +6,7 @@
    * GISpark体系架构
    * GISpark实施路线图
    * 可持续的信息基础设施
-* 云平台的搭建
+* [云平台的搭建](yun_ping_tai_de_da_jian.md)
    * OpenStack的安装
        * 虚拟机镜像管理
        * 弹性计算平台
@@ -23,7 +23,7 @@
        * Docker Swarm
    * Mesos与运维
        * Chronos
-* [Spark并行计算环境部署](sparkbing_xing_ji_suan_huan_jing_bu_shu.md)
+* Spark并行计算环境部署
    * 部署架构
    * 主节点安装
    * 从节点安装
@@ -54,7 +54,7 @@
    * 网络路径分析
    * 社交网络分析
    * 复杂网络分析
-* 制图与可视化
+* [制图与可视化](zhi_tu_yu_ke_shi_hua.md)
    * 静态制图与分块输出
    * 动态Web地图
    * 高级三维可视化
