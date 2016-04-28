@@ -5,6 +5,7 @@
    * GISpark是什么？
    * GISpark体系架构
    * GISpark实施路线图
+   * 可持续的信息基础设施
 * 云平台的搭建
    * OpenStack的安装
    * 虚拟存储系统
