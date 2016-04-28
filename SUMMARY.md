@@ -28,7 +28,7 @@
    * 主节点安装
    * 从节点安装
    * PySpark配置
-* Anaconda科学计算环境
+* [Anaconda科学计算环境](anacondake_xue_ji_suan_huan_jing.md)
    * 安装Anaconda
 * 持续集成系统
    * GitLab源代码托管与版本管理
