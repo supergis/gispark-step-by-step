@@ -27,6 +27,7 @@
    * 部署架构
    * 主节点安装
    * 从节点安装
+   * PySpark配置
 * Anaconda科学计算环境
    * 安装Anaconda
 * 持续集成系统
