@@ -1,3 +1,6 @@
 # GISpark-地理空间信息分布式计算平台
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+    GISpark是用于大规模地理空间信息处理与建模分析的分布式计算平台，基于OpenStack云计算环境和Docker容器技术进行开发，用于构建多用户托管的云计算基础设施。GISpark采用HDFS/Ceph/MongoDB等大规模虚拟化存储系统进行时空信息的存储，能够处理大规模的矢量、影像和流式数据，能够兼容已有的GIS系统，并拓展GIS的数据服务和空间分析能力到整个IT基础设施。
+    GISpark采用最新的Spark分布式并行计算框架，可以快速集结数百台服务器进行大规模的时空信息处理和地理模型分析。
+    GISpark集成Anaconda科学计算环境，包含大量的经典算法和模型库，可以为时空间大数据提供持续发展的模型系统。
+    
