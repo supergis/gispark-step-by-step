@@ -20,6 +20,7 @@
        * Docker Machine
        * Docker Compose
        * Docker Swarm
+       * Docker Registry
    * Mesos与运维
        * Chronos
 * Spark并行计算环境部署
