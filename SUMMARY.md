@@ -8,6 +8,7 @@
    * 安装Docker
        * Docker Engine
        * Docker Machine
+       * Docker Compose
    * 安装Mesos
 * Spark并行计算环境部署
    * 部署架构
