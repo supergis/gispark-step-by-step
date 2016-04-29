@@ -67,6 +67,6 @@
    * [高级三维可视化](gao_ji_san_wei_ke_shi_hua.md)
 * [多维时空分析](duo_wei_shi_kong_fen_xi.md)
    * [空间图谱](kong_jian_tu_pu.md)
-   * 时间序列
+   * [时间序列](shi_jian_xu_lie.md)
    * 时空演变
 
