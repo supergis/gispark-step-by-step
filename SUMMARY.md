@@ -51,7 +51,7 @@
        * Overpass API的使用
        * XML的递归处理
        * PySpark中数据查询
-   * 影像数据处理与挖掘
+   * [影像数据处理与挖掘](ying_xiang_shu_ju_chu_li_yu_wa_jue.md)
    * SRTM地形数据获取与分析
 * 高级空间分析
    * 地理选址与优化
