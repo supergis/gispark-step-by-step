@@ -29,7 +29,7 @@
    * [从节点安装](cong_jie_dian_an_zhuang.md)
    * [PySpark配置](pysparkpei_zhi.md)
 * [Anaconda科学计算环境](anacondake_xue_ji_suan_huan_jing.md)
-   * 安装Anaconda
+   * [安装Anaconda](an_zhuang_anaconda.md)
 * 持续集成系统
    * GitLab源代码托管与版本管理
    * Jenkins持续构建系统
