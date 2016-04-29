@@ -7,7 +7,7 @@
    * [GISpark实施路线图](gisparkshi_shi_lu_xian_tu.md)
    * [可持续的信息基础设施](ke_chi_xu_de_xin_xi_ji_chu_she_shi.md)
 * [云平台的搭建](yun_ping_tai_de_da_jian.md)
-   * OpenStack的安装
+   * [OpenStack的安装](openstackde_an_zhuang.md)
        * 虚拟机镜像管理
        * 弹性计算平台
        * 集成管理控制台
