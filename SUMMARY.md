@@ -62,7 +62,7 @@
    * [社交网络分析](she_jiao_wang_luo_fen_xi.md)
    * [复杂网络分析](fu_za_wang_luo_fen_xi.md)
 * [制图与可视化](zhi_tu_yu_ke_shi_hua.md)
-   * 静态制图与分块输出
+   * [静态制图与分块输出](jing_tai_zhi_tu_yu_fen_kuai_shu_chu.md)
    * 动态Web地图
    * 高级三维可视化
 * 多维时空分析
