@@ -35,7 +35,7 @@
    * [Jenkins持续构建系统](jenkinschi_xu_gou_jian_xi_tong.md)
    * [Maven软件构建仓库](mavenruan_jian_gou_jian_cang_ku.md)
    * [企业级服务总线](qi_ye_ji_fu_wu_zong_xian.md)
-* 地理信息服务
+* [地理信息服务](di_li_xin_xi_fu_wu.md)
    * 应用服务系统搭建
    * 客户端应用及开发
 * 机器学习框架
