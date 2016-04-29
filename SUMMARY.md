@@ -21,7 +21,7 @@
        * Docker Compose
        * Docker Registry
        * Docker Swarm
-   * Mesos与运维
+   * [Mesos与运维](mesosyu_yun_wei.md)
        * Chronos
 * Spark并行计算环境部署
    * 部署架构
