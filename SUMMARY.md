@@ -37,7 +37,7 @@
    * [企业级服务总线](qi_ye_ji_fu_wu_zong_xian.md)
 * [地理信息服务](di_li_xin_xi_fu_wu.md)
    * [应用服务系统搭建](ying_yong_fu_wu_xi_tong_da_jian.md)
-   * 客户端应用及开发
+   * [客户端应用及开发](ke_hu_duan_ying_yong_ji_kai_fa.md)
 * 机器学习框架
    * TensorFlow
 * [实时流处理](shi_shi_liu_chu_li.md)
