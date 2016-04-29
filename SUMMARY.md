@@ -32,7 +32,7 @@
    * [安装Anaconda](an_zhuang_anaconda.md)
 * [持续集成系统](chi_xu_ji_cheng_xi_tong.md)
    * [GitLab源代码托管与版本管理](gitlabyuan_dai_ma_tuo_guan_yu_ban_ben_guan_li.md)
-   * Jenkins持续构建系统
+   * [Jenkins持续构建系统](jenkinschi_xu_gou_jian_xi_tong.md)
    * Maven软件构建仓库
    * 企业级服务总线
 * 地理信息服务
