@@ -11,7 +11,7 @@
        * 虚拟机镜像管理
        * 弹性计算平台
        * 集成管理控制台
-   * 虚拟存储系统
+   * [虚拟存储系统](xu_ni_cun_chu_xi_tong.md)
        * HDFS
        * Ceph
        * MongoDB
