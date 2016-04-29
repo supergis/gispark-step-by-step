@@ -72,6 +72,6 @@
 * [模型构建与共享](mo_xing_gou_jian_yu_gong_xiang.md)
    * [科研的大数据基础设施](ke_yan_de_da_shu_ju_ji_chu_she_shi.md)
    * [基于云计算的协同研究](ji_yu_yun_ji_suan_de_xie_tong_yan_jiu.md)
-   * 可重用和可分享的模型
+   * [可重用和可分享的模型](ke_zhong_yong_he_ke_fen_xiang_de_mo_xing.md)
    * 数字化科研开放平台
 
