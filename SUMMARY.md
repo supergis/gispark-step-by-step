@@ -31,7 +31,7 @@
 * [Anaconda科学计算环境](anacondake_xue_ji_suan_huan_jing.md)
    * [安装Anaconda](an_zhuang_anaconda.md)
 * [持续集成系统](chi_xu_ji_cheng_xi_tong.md)
-   * GitLab源代码托管与版本管理
+   * [GitLab源代码托管与版本管理](gitlabyuan_dai_ma_tuo_guan_yu_ban_ben_guan_li.md)
    * Jenkins持续构建系统
    * Maven软件构建仓库
    * 企业级服务总线
