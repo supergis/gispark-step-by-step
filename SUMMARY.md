@@ -60,7 +60,7 @@
 * [地理空间网络](di_li_kong_jian_wang_luo.md)
    * [地理网络分析](di_li_wang_luo_fen_xi.md)
    * [社交网络分析](she_jiao_wang_luo_fen_xi.md)
-   * 复杂网络分析
+   * [复杂网络分析](fu_za_wang_luo_fen_xi.md)
 * [制图与可视化](zhi_tu_yu_ke_shi_hua.md)
    * 静态制图与分块输出
    * 动态Web地图
