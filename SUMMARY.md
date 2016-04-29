@@ -5,7 +5,7 @@
    * [GISpark是什么？](gisparkshi_shi_yao_ff1f.md)
    * [GISpark体系架构](gisparkti_xi_jia_gou.md)
    * [GISpark实施路线图](gisparkshi_shi_lu_xian_tu.md)
-   * 可持续的信息基础设施
+   * [可持续的信息基础设施](ke_chi_xu_de_xin_xi_ji_chu_she_shi.md)
 * [云平台的搭建](yun_ping_tai_de_da_jian.md)
    * OpenStack的安装
        * 虚拟机镜像管理
