@@ -27,7 +27,7 @@
    * [部署架构](bu_shu_jia_gou.md)
    * [主节点安装](zhu_jie_dian_an_zhuang.md)
    * [从节点安装](cong_jie_dian_an_zhuang.md)
-   * PySpark配置
+   * [PySpark配置](pysparkpei_zhi.md)
 * [Anaconda科学计算环境](anacondake_xue_ji_suan_huan_jing.md)
    * 安装Anaconda
 * 持续集成系统
