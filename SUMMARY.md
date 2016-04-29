@@ -52,7 +52,7 @@
        * XML的递归处理
        * PySpark中数据查询
    * [影像数据处理与挖掘](ying_xiang_shu_ju_chu_li_yu_wa_jue.md)
-   * SRTM地形数据获取与分析
+   * [SRTM地形数据获取与分析](srtmdi_xing_shu_ju_huo_qu_yu_fen_xi.md)
 * 高级空间分析
    * 地理选址与优化
    * 快速地理编码
