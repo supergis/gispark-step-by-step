@@ -64,7 +64,7 @@
 * [制图与可视化](zhi_tu_yu_ke_shi_hua.md)
    * [静态制图与分块输出](jing_tai_zhi_tu_yu_fen_kuai_shu_chu.md)
    * [动态Web地图](dong_tai_web_di_tu.md)
-   * 高级三维可视化
+   * [高级三维可视化](gao_ji_san_wei_ke_shi_hua.md)
 * 多维时空分析
    * 空间图谱
    * 时间序列
