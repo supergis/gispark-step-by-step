@@ -56,7 +56,7 @@
    * [SRTM地形数据获取与分析](srtmdi_xing_shu_ju_huo_qu_yu_fen_xi.md)
 * [高级空间分析](gao_ji_kong_jian_fen_xi.md)
    * [地理选址与优化](di_li_xuan_zhi_yu_you_hua.md)
-   * 快速地理编码
+   * [快速地理编码](kuai_su_di_li_bian_ma.md)
 * 地理空间网络
    * 网络路径分析
    * 社交网络分析
