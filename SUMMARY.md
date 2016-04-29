@@ -71,5 +71,6 @@
    * [Keras](keras.md)
 * [模型构建与共享](mo_xing_gou_jian_yu_gong_xiang.md)
    * 基于云计算的协同研究
+       * 科研大数据基础设施
    * 可重用和可分享的模型
 
