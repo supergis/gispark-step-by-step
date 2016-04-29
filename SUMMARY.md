@@ -73,5 +73,5 @@
    * [科研的大数据基础设施](ke_yan_de_da_shu_ju_ji_chu_she_shi.md)
    * [基于云计算的协同研究](ji_yu_yun_ji_suan_de_xie_tong_yan_jiu.md)
    * [可重用和可分享的模型](ke_zhong_yong_he_ke_fen_xiang_de_mo_xing.md)
-   * 数字化科研开放平台
+   * [数字化科研开放平台](shu_zi_hua_ke_yan_kai_fang_ping_tai.md)
 
