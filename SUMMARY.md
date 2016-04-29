@@ -39,7 +39,7 @@
    * [应用服务系统搭建](ying_yong_fu_wu_xi_tong_da_jian.md)
    * [客户端应用及开发](ke_hu_duan_ying_yong_ji_kai_fa.md)
 * [机器学习框架](ji_qi_xue_xi_kuang_jia.md)
-   * TensorFlow
+   * [TensorFlow](tensorflow.md)
    * Keras
 * [实时流处理](shi_shi_liu_chu_li.md)
    * 框架与流程
