@@ -24,7 +24,7 @@
    * [Mesos与运维](mesosyu_yun_wei.md)
        * Chronos
 * Spark并行计算环境部署
-   * 部署架构
+   * [部署架构](bu_shu_jia_gou.md)
    * 主节点安装
    * 从节点安装
    * PySpark配置
